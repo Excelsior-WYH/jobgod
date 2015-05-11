@@ -1,0 +1,21 @@
+[ 2015-02-15T20:16:59+08:00 ] 27.13.93.78 //index.php?s=/Home/User/getPersonBrief
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T20:17:46+08:00 ] 27.13.93.78 //index.php?s=/Home/User/getPersonBrief
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T20:19:08+08:00 ] 27.13.93.78 //index.php?s=/Home/User/getPersonBrief
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T20:19:50+08:00 ] 27.13.93.78 //index.php?s=/Home/User/getPersonBrief
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T20:32:50+08:00 ] 27.13.93.78 /index.php?s=/Home/User/getPersonBrief
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T20:37:33+08:00 ] 27.13.93.78 /index.php?s=/Home/User/getPersonBrief/userId/5
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-15T21:26:53+08:00 ] 219.153.62.100 /index.php?s=/Home/User/getPersonBrief
+ERR: 无法加载控制器:User
+

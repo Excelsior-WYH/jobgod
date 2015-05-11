@@ -1,0 +1,6 @@
+[ 2015-02-11T15:30:59+08:00 ] 27.13.93.78 /index.php?s=/Home/User/register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-02-11T15:34:20+08:00 ] 104.236.140.198 /index.php?s=/Home/User/register
+ERR: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+

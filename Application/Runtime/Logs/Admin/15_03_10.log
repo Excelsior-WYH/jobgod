@@ -1,0 +1,294 @@
+[ 2015-03-10T12:57:26+08:00 ] ::1 /jobgod/index.php/Admin/Index/signupview
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-03-10T12:57:34+08:00 ] ::1 /jobgod/index.php/Admin/Index/signupview
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-03-10T12:57:36+08:00 ] ::1 /jobgod/index.php/Admin/Index/signupview
+ERR: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-03-10T13:32:36+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T13:32:57+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T13:34:57+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T13:45:30+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T13:51:26+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T13:53:04+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:10:04+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:21:01+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:38:00+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:38:49+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:39:32+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:47:26+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:49:27+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:49:34+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T14:49:37+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:49:58+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:50:10+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T14:50:24+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:51:04+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:52:11+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T14:54:28+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:00:34+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:02:01+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:02:33+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:04:47+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:19:07+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:19:40+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:22:24+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:24:40+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:26:18+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:26:40+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:27:04+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:29:07+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:29:18+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:35:10+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:36:33+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:37:09+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:37:46+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:39:57+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:40:37+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:40:52+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T15:40:54+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:41:52+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:50:53+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:51:58+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:52:53+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T15:54:04+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:55:11+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:55:36+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:55:58+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:58:11+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:58:21+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:58:31+08:00 ] ::1 /jobgod/index.php/Admin/Index/index.php/Admin
+ERR: 非法操作:index.php
+
+[ 2015-03-10T15:58:32+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T15:59:23+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:01:07+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:01:15+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:03:17+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:04:57+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:05:48+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:06:43+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:07:56+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:07:59+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:12:42+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:12:47+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:13:14+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:13:16+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:14:18+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:15:11+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:15:12+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:16:00+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:17:00+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:17:53+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:20:13+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:21:52+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:22:08+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:47:28+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:47:54+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:48:21+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:48:31+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:48:49+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:48:53+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:50:12+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T16:52:38+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T17:57:34+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T17:57:36+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T17:57:36+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T17:59:27+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:08:23+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:08:30+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:12:41+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:13:13+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:15:50+08:00 ] ::1 /jobgod/index.php/Admin/Index/js/scripts.js
+ERR: 非法操作:js
+
+[ 2015-03-10T18:57:41+08:00 ] ::1 /jobgod/index.php?s=/Admin/User/userInfo/id/1
+ERR: 无法加载控制器:User
+
+[ 2015-03-10T19:28:13+08:00 ] ::1 /jobgod/index.php/Admin/Index/signin
+ERR: 模板不存在:./Application/Admin/View/Index/signin.html
+

@@ -1,0 +1,9 @@
+[ 2015-02-23T00:27:05+08:00 ] 183.228.147.120 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-23T00:30:22+08:00 ] 111.10.234.242 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-23T19:57:48+08:00 ] 111.10.234.242 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+

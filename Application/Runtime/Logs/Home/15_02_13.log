@@ -1,0 +1,24 @@
+[ 2015-02-13T00:48:52+08:00 ] 219.153.62.100 /index.php?s=/Home/User/log
+ERR: 非法操作:log
+
+[ 2015-02-13T00:49:51+08:00 ] 219.153.62.100 /index.php?s=/Home/User/log
+ERR: 非法操作:log
+
+[ 2015-02-13T00:50:55+08:00 ] 219.153.62.100 /index.php?s=/Home/User/log
+ERR: 非法操作:log
+
+[ 2015-02-13T21:07:17+08:00 ] 27.13.93.78 //index.php?s=/Home//ser/modifyPass
+ERR: 无法加载控制器:Ser
+
+[ 2015-02-13T21:11:13+08:00 ] 27.13.93.78 //index.php?s=/Home//ser/modifyPass
+ERR: 无法加载控制器:Ser
+
+[ 2015-02-13T21:32:29+08:00 ] 219.153.62.100 /index.php?s=/Home/User/getPersonBrief
+ERR: 参数错误或者未定义:id
+
+[ 2015-02-13T21:35:22+08:00 ] 27.13.93.78 //index.php?s=/Home//ser/modifyPass
+ERR: 无法加载控制器:Ser
+
+[ 2015-02-13T21:40:32+08:00 ] 27.13.93.78 //index.php?s=/Home//ser/modifyPass
+ERR: 无法加载控制器:Ser
+

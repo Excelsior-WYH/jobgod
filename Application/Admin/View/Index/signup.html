@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="ThemeBucket">
+    <link rel="shortcut icon" href="#" type="image/png">
+
+    <title>Registration</title>
+
+    <link href="__PUBLIC__/admin/css/style.css" rel="stylesheet">
+    <link href="__PUBLIC__/admin/css/style-responsive.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="__PUBLIC__/admin/js/html5shiv.js"></script>
+    <script src="__PUBLIC__/admin/js/respond.min.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        body{
+            font-family: "Hiagino Sans GB w3";
+        }
+        .form-signin input[type="text"], .form-signin input[type="password"] {
+            background: #fff;
+        }
+        .form-signin input[type="email"] {
+            background: #fff;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border: 1px solid #eaeaec;
+            box-shadow: none;
+            font-size: 12px;
+        }
+        .form-control {
+            display: inline-block;
+            width: 90%;
+        }
+    </style>
+</head>
+
+<body class="login-body">
+   
+<div class="container">
+
+    <div class="form-signin" style="max-width: 700px">
+    
+        <div class="form-signin-heading text-center">
+            <h1 class="sign-title">神兼职</h1>
+            <img src="__PUBLIC__/admin/images/login-logo.png" alt=""/>
+        </div>
+
+
+        <div class="login-wrap">
+            <form id="signupForm" action="__SELF__" method="post">
+                <input type="hidden" name="lng">
+                <input type="hidden" name="lat">
+                <div>
+                    <label for="companyName">企业名称</label>
+                    <input type="text" class="form-control" name="companyName" placeholder="填写企业名称">
+                </div>
+                <div>
+                    <label for="email">企业邮箱</label>
+                    <input type="email" class="form-control" name="email" placeholder="此邮箱地址也是你的登录用户名">
+                </div>
+                <div>
+                    <label for="pwd">登录密码</label>
+                    <input type="password" class="form-control" name="pwd" placeholder="登录密码">
+                </div>
+                <div>
+                    <label for="pwd">确认密码</label>
+                    <input type="password" class="form-control" name="pwd" placeholder="确认登录密码">
+                </div>
+                <div>
+                    <label for="tradeId">所属行业</label>
+                    <select class="form-control input-sm m-bot15" name="tradeId" style="height: 38px;">
+                        <volist name="trades" id="v">
+                            <option value="{$v.id}">{$v.name}</option>
+                        </volist>
+                    </select>
+                </div>
+                <div>
+                    <label for="type">企业性质</label>
+                    <select class="form-control input-sm m-bot15" style="height: 38px;">
+                        <option>国营企业</option>
+                        <option>私营企业</option>
+                        <option>外资企业</option>
+                        <option>个体户</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="scale">企业规模</label>
+                    <select class="form-control input-sm m-bot15" name="scale" style="height: 38px;">
+                        <option>1-10</option>
+                        <option>10-50</option>
+                        <option>50-200</option>
+                        <option>200-1000</option>
+                        <option>1000以上</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="address">企业位置</label>
+                    <input type="text" class="form-control" name="address">
+                </div>
+                
+                <!-- mapContainer -->
+                <div id="mapContainer"></div>
+                
+                <div>
+                    <label for="contactUser">联系人</label>
+                    <input type="text" class="form-control" name="contactUser">
+                </div>
+                <div>
+                    <label for="tel">联系电话</label>
+                    <input type="text" class="form-control" name="tel">
+                </div>
+                <div>
+                    <label for="intro" style="vertical-align: top;">企业简介</label>
+                    <textarea rows="6" class="form-control" id="result" name="intro"></textarea>
+                </div>
+
+                <button type="submit" class="btn btn-lg btn-login btn-block">注册</button>
+                
+            </form>
+            <input type="button" value="逆地理编码" onclick="geocoder()"/>
+            <div class="registration">
+                我已经注册.
+                <a href="login.html" class="">
+                    登录
+                </a>
+            </div>
+                    
+    
+        </div>
+
+    </div>
+
+</div>
+
+
+
+        <!-- Placed js at the end of the document so the pages load faster -->
+
+        <!-- Placed js at the end of the document so the pages load faster -->
+        <script src="__PUBLIC__/admin/js/jquery-1.10.2.min.js"></script>
+        <script src="__PUBLIC__/admin/js/bootstrap.min.js"></script>
+        <script src="__PUBLIC__/admin/js/modernizr.min.js"></script>
+
+        <script src="__PUBLIC__/admin/js/jquery.validate.min.js"></script>
+        <script src="__PUBLIC__/admin/js/validation-init.js"></script>
+        <script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&key=c82931080d93698f3e194a9fc58c7417"></script>
+        <script type="text/javascript">
+        
+            $('#mapContainer').css({ 
+                height: 300,
+                marginBottom: 20
+            });
+            
+            const LNG_X = 106.491122;
+            const LAT_Y = 29.521243;
+            var lng_x, 
+                lat_y, 
+                lnglatXY, 
+                MGeocoder;
+            
+            var map = new AMap.Map("mapContainer", {
+                resizeEnable: true,
+                view: new AMap.View2D({
+                    center: new AMap.LngLat(LNG_X, LAT_Y), //地图中心点
+                    zoom: 13 //地图显示的缩放级别
+                })
+            });
+            
+            map.on('click', function (event) {
+                lng_x = event.lnglat.getLng();
+                lat_y = event.lnglat.getLat();
+                $('input[name=lng]').val(lng_x);
+                $('input[name=lat]').val(lat_y);
+                lnglatXY = new AMap.LngLat(lng_x, lat_y);
+                
+                //加载地理编码插件
+                AMap.service(["AMap.Geocoder"], function() {        
+                    MGeocoder = new AMap.Geocoder({ 
+                        radius: 1000,
+                        extensions: "all"
+                    });
+                    //逆地理编码
+                    MGeocoder.getAddress(lnglatXY, function(status, result){
+                        if(status === 'complete' && result.info === 'OK'){
+                            $('input[name=address').val(result.regeocode.formattedAddress);
+                        }
+                    });
+                });
+            });
+            
+        </script>        
+        
+    </body>
+</html>

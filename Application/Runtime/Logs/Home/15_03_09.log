@@ -1,0 +1,27 @@
+[ 2015-03-09T19:14:59+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/userResume
+ERR: Think\Controller:ajax方法不存在！
+
+[ 2015-03-09T19:16:12+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/userResume
+ERR: Think\Controller:ajax方法不存在！
+
+[ 2015-03-09T20:09:24+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:10:39+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:12:38+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:13:18+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:13:18+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:13:19+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+
+[ 2015-03-09T20:13:26+08:00 ] 127.0.0.1 /jobGod/index.php/Home/User/setUerAuth
+ERR: 非法操作:setUerAuth
+

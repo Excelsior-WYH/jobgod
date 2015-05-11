@@ -1,0 +1,42 @@
+[ 2015-02-22T11:36:39+08:00 ] 219.153.62.100 /index.php?s=/Home/User/getUserFriendst
+ERR: 非法操作:getUserFriendst
+
+[ 2015-02-22T11:36:44+08:00 ] 219.153.62.100 /index.php?s=/Home/User/getUserFriendst
+ERR: 非法操作:getUserFriendst
+
+[ 2015-02-22T11:37:07+08:00 ] 219.153.62.100 /index.php?s=/Home/User/getUserFriendst
+ERR: 非法操作:getUserFriendst
+
+[ 2015-02-22T15:38:32+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T15:39:53+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T15:40:41+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T15:42:08+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T15:42:11+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T21:45:42+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T21:48:31+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T21:51:24+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T21:52:07+08:00 ] 123.147.244.68 /index.php?s=/Home/User/updatePersonsBreif
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-02-22T23:37:20+08:00 ] 27.13.93.26 /index.php?s=/Home/User/unfocusUser
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'formId' in 'where clause'
+
+[ 2015-02-22T23:37:59+08:00 ] 27.13.93.26 /index.php?s=/Home/User/unfocusUser
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'formId' in 'where clause'
+
